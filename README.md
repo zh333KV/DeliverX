@@ -12,17 +12,3 @@ https://zh333kv.github.io/DeliverX
 
 ## 🛠️ Tech Stack
 * Frontend: HTML, CSS, JavaScript
-* Backend: None
-* Database: None
-* AI Tools: None
-* Build Tools: None
-* External Libraries: None
-* External Frameworks: None
-* Browser's built-in objects: `document`, `window`
-* Browser's built-in functions: `requestAnimationFrame`
-
-## 📦 Installation
-To install the project, follow these steps:
-1. Clone the repository using `git clone`
-2. Open the `index.html` file in a web browser
-3. The project will be rendered in the browser, and the smooth scrolling animation will be triggered by clicking on navigation links with the class `js-scroll`
